@@ -1,0 +1,1 @@
+This project demonstrates how to implement an ETL pipeline using SQL Server Integration Services (SSIS). The pipeline extracts data from a flat file (CSV), performs basic transformations, and loads it into a SQL Server database.
